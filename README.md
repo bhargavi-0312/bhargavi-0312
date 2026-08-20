@@ -1,5 +1,10 @@
+### About Me ✨
 
-## About Me ✨<br><br>🔭 **Building:** AI/ML & full-stack projects<br>🌱 **Learning:** Java, DSA, Spring Boot & AI/ML Engineering<br>🤝 **Open to:** Open-source & meaningful collaborations<br>🧠 **Interested in:** Software Engineering × AI<br>⚡ **Fun fact:** I learn best by building, breaking, and rebuilding.<br>
+🔭 Building: AI/ML & full-stack projects  
+🌱 Learning: Java, DSA, Spring Boot & AI Engineering  
+🤝 Open to: Open-source & meaningful collaborations  
+🧠 Interested in: Software Engineering × AI  
+⚡ Fun fact: I learn best by building, breaking, and rebuilding.
 
 
 # 💻 Tech Stack:
